@@ -1,4 +1,4 @@
-# Brewfile
+# Brewfile <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Homebrew_logo.svg" alt="Homebrew" width="60" height="90" align="right">
 
 *Install or update all your macOS applications with `brew bundle`*
 
