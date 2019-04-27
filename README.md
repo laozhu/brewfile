@@ -36,6 +36,12 @@ $ brew bundle
 
 Now it's time to enjoy your macOS 🎉
 
+### 🚧 Tips
+
+如果你发现总是安装失败，很有可能是 `homebrew` 下载源被墙了，请先挂梯子并在终端启用代理。
+
+If your installation fails, maybe the download source is blocked by [GFW](https://en.wikipedia.org/wiki/Great_Firewall), please proxy your terminal first.
+
 ### Credits
 
 - [homebrew](https://brew.sh/)
