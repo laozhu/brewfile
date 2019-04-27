@@ -59,6 +59,7 @@ cask 'insomnia'
 cask 'gpg-suite'
 cask 'google-backup-and-sync'
 cask 'google-cloud-sdk'
+cask 'now'
 cask 'vagrant'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
@@ -117,7 +118,6 @@ cask 'font-noto-serif-cjk'
 cask 'font-noto-mono'
 cask 'font-noto-emoji'
 cask 'font-noto-color-emoji'
-
 
 # No cask yet
 # cask 'pixelsnap'
