@@ -28,6 +28,16 @@ brew 'mkcert'
 brew 'nss'
 brew 'mackup'
 brew 'mas'
+brew 'hub'
+brew 'stow'
+brew 'cmake'
+brew 'ninja'
+brew 'swift'
+brew 'usbmuxd', args: ['HEAD'], link: true
+brew 'libimobiledevice',  args: ['HEAD']
+brew 'ideviceinstaller'
+brew 'ios-deploy'
+brew 'cocoapods' # Run `pod setup`
 
 # AppStore
 mas 'Xcode', id: 497799835
@@ -84,6 +94,9 @@ cask 'fontplop'
 cask 'baidunetdisk'
 cask 'chrome-remote-desktop-host'
 cask 'graphql-playground'
+cask 'java'
+cask 'android-sdk'
+cask 'android-studio'
 
 # Quicklook
 cask 'qlstephen'
