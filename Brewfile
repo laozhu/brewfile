@@ -97,6 +97,11 @@ cask 'graphql-playground'
 cask 'java'
 cask 'android-sdk'
 cask 'android-studio'
+cask 'notion'
+cask 'pock'
+cask 'openinterminal'
+cask 'aerial'
+cask 'openemu'
 
 # Quicklook
 cask 'qlstephen'
