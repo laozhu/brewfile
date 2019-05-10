@@ -19,6 +19,9 @@ brew 'hugo'
 brew 'dart'
 brew 'webp'
 brew 'imagemagick'
+brew 'wrk'
+brew 'peco'
+brew 'coreutils'
 brew 'ffmpeg'
 brew 'nginx', restart_service: :changed
 brew 'mariadb', restart_service: :changed
@@ -102,6 +105,8 @@ cask 'pock'
 cask 'openinterminal'
 cask 'aerial'
 cask 'openemu'
+cask 'balenaetcher'
+cask 'nteract'
 
 # Quicklook
 cask 'qlstephen'
@@ -137,5 +142,6 @@ cask 'font-noto-mono'
 cask 'font-noto-emoji'
 cask 'font-noto-color-emoji'
 
-# No cask yet
+# No brew or cask yet
+# brew 'edgedb'
 # cask 'pixelsnap'
